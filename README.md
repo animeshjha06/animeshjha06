@@ -28,11 +28,11 @@ I enjoy turning ideas into real applications and continuously improving through 
 
 **July 2024 – November 2024**
 
-* Worked on enterprise payroll software for Canadian clients.
-* Investigated and resolved client-reported software issues.
-* Configured application workflows and system settings.
-* Collaborated with technical and functional teams to deliver timely solutions.
-* Strengthened debugging, analytical thinking, and client communication skills.
+- Worked on enterprise payroll software for Canadian clients.
+- Investigated and resolved client-reported software issues.
+- Configured application workflows and system settings.
+- Collaborated with technical and functional teams to deliver timely solutions.
+- Strengthened debugging, analytical thinking, and client communication skills.
 
 ---
 
@@ -40,25 +40,25 @@ I enjoy turning ideas into real applications and continuously improving through 
 
 **August 2023 – July 2024**
 
-* Completed technical training in Java, SQL, JavaScript, and React.
-* Worked on coding assignments and software development exercises.
-* Built a strong understanding of Object-Oriented Programming, databases, and software engineering practices.
-* Gained practical exposure to enterprise software development environments.
+- Completed technical training in Java, SQL, JavaScript, and React.
+- Worked on coding assignments and software development exercises.
+- Built a strong understanding of Object-Oriented Programming, databases, and software engineering practices.
+- Gained practical exposure to enterprise software development environments.
 
 ---
 
 # 🚀 Currently Learning
 
-* FastAPI
-* Django
-* Flask
-* REST API Development
-* Authentication & Authorization
-* System Design
-* Machine Learning
-* Generative AI
-* Large Language Models (LLMs)
-* Advanced Data Structures & Algorithms
+- FastAPI
+- Django
+- Flask
+- REST APIs
+- Authentication & Authorization
+- System Design
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Advanced Data Structures & Algorithms
 
 ---
 
@@ -67,13 +67,13 @@ I enjoy turning ideas into real applications and continuously improving through 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,sql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask" />
+<img src="https://skillicons.dev/icons?i=django,flask,python" />
 </p>
 
 ### Frontend
@@ -85,7 +85,7 @@ I enjoy turning ideas into real applications and continuously improving through 
 ### Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 ### Tools
@@ -104,11 +104,11 @@ A browser-based Tic Tac Toe game with a Python Flask backend and JavaScript fron
 
 **Highlights**
 
-* REST API-based architecture
-* Backend game logic
-* Interactive frontend
-* Clean UI
-* Deployed application
+- REST API-based architecture
+- Backend game logic
+- Interactive frontend
+- Clean UI
+- Deployed application
 
 ---
 
@@ -118,34 +118,34 @@ Machine Learning web application that predicts salary using trained ML models.
 
 **Tech**
 
-* Python
-* Flask
-* Scikit-Learn
-* HTML
-* CSS
-* JavaScript
+- Python
+- Flask
+- Scikit-Learn
+- HTML
+- CSS
+- JavaScript
 
 ---
 
 ## 🔜 Upcoming Projects
 
-* FastAPI Authentication System
-* URL Shortener API
-* Expense Tracker API
-* AI Chat Application
-* RAG-based LLM Project
+- FastAPI Authentication System
+- URL Shortener API
+- Expense Tracker API
+- AI Chat Application
+- RAG-based LLM Project
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshjha06&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=animeshjha06&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ---
@@ -153,7 +153,7 @@ Machine Learning web application that predicts salary using trained ML models.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshjha06&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshjha06&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -168,25 +168,25 @@ Machine Learning web application that predicts salary using trained ML models.
 
 # 🎯 Current Focus
 
-* Building scalable backend applications
-* Writing clean and maintainable code
-* Solving Data Structures & Algorithms problems
-* Learning software architecture and system design
-* Exploring AI-powered applications
-* Contributing to open-source projects
+- Building scalable backend applications
+- Writing clean and maintainable code
+- Solving Data Structures & Algorithms problems
+- Learning software architecture and system design
+- Exploring AI-powered applications
+- Contributing to open-source projects
 
 ---
 
 # 📚 What You'll Find Here
 
-* Backend Development Projects
-* REST APIs
-* Python Applications
-* Java Projects
-* Machine Learning Projects
-* Data Structures & Algorithms
-* Full-Stack Applications
-* Open Source Contributions
+- Backend Development Projects
+- REST APIs
+- Python Applications
+- Java Projects
+- Machine Learning Projects
+- Data Structures & Algorithms
+- Full-Stack Applications
+- Open Source Contributions
 
 ---
 
@@ -203,10 +203,10 @@ Machine Learning web application that predicts salary using trained ML models.
 </a>
 
 <a href="mailto:animeshjha95166@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="[https://YOUR_PORTFOLIO_LINK](https://animeshjha06.github.io/portfolio/)">
+<a href="https://animeshjha06.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
