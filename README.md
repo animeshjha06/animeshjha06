@@ -216,7 +216,7 @@ Machine Learning web application that predicts salary using trained ML models.
 
 # 💬 Favorite Quote
 
-> **"The best way to learn is by building."**
+> **"Code you can't explain is debt, not skill."**
 
 ---
 
