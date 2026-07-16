@@ -31,7 +31,7 @@ Access Granted...
 # 👨‍💻 About Me
 
 ```bash
-whoami
+who am i
 ```
 
 ```text
