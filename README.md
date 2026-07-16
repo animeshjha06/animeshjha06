@@ -1,12 +1,16 @@
-# Hi there 👋, I'm Animesh Jha
+<h1 align="center">👽 Welcome to AREA 51</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;Python+%7C+Java+%7C+FastAPI+%7C+Django;Machine+Learning+%26+AI+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="assets/alien-coffee.png" width="320" alt="Alien Coffee"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=27&pause=1000&color=39FF14&center=true&vCenter=true&width=900&lines=Hey+there+👋;I'm+Animesh+Jha;Backend+Software+Engineer;Python+•+Java+•+FastAPI+•+Django;Machine+Learning+%26+AI+Explorer;Building+Projects+One+Commit+at+a+Time;Coffee+☕+Powered+Developer;Enjoy+Your+Stay+at+AREA+51+🛸" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/animeshjha06">
-    <img src="https://komarev.com/ghpvc/?username=animeshjha06&label=Profile+Views&color=0e75b6&style=flat" />
+    <img src="https://komarev.com/ghpvc/?username=animeshjha06&label=Visitors&color=39FF14&style=for-the-badge"/>
   </a>
 </p>
 
@@ -14,11 +18,16 @@
 
 # 👨‍💻 About Me
 
-I'm a **Computer Science graduate** with professional experience at **ADP**, where I worked on enterprise payroll software supporting Canadian clients. During my time there, I developed strong analytical, debugging, and problem-solving skills while collaborating with cross-functional teams.
+I'm **Animesh Jha**, a Computer Science graduate with professional experience at **ADP**, where I worked on enterprise payroll software supporting Canadian clients.
 
-I'm currently focused on becoming a **Backend Software Engineer**, building production-ready applications using **Python, FastAPI, Django, Flask, Java, SQL**, and exploring **Machine Learning** and **Generative AI**.
+I enjoy solving real-world problems, building scalable backend systems, and continuously learning new technologies. My current focus is Backend Development, Machine Learning, and AI-powered applications.
 
-I enjoy turning ideas into real applications and continuously improving through hands-on projects and daily coding.
+- 💼 Former Associate Functional Consultant at **ADP**
+- 🐍 Backend Developer (Python)
+- ☕ Java Enthusiast
+- 🚀 Building REST APIs & Web Applications
+- 🤖 Exploring Machine Learning & Generative AI
+- 📚 Always learning something new
 
 ---
 
@@ -28,11 +37,11 @@ I enjoy turning ideas into real applications and continuously improving through 
 
 **July 2024 – November 2024**
 
-- Worked on enterprise payroll software for Canadian clients.
-- Investigated and resolved client-reported software issues.
-- Configured application workflows and system settings.
-- Collaborated with technical and functional teams to deliver timely solutions.
-- Strengthened debugging, analytical thinking, and client communication skills.
+- Worked on enterprise payroll software supporting Canadian clients.
+- Investigated and resolved software issues.
+- Collaborated with technical and functional teams.
+- Configured enterprise payroll applications.
+- Improved debugging and analytical skills.
 
 ---
 
@@ -40,112 +49,100 @@ I enjoy turning ideas into real applications and continuously improving through 
 
 **August 2023 – July 2024**
 
-- Completed technical training in Java, SQL, JavaScript, and React.
-- Worked on coding assignments and software development exercises.
-- Built a strong understanding of Object-Oriented Programming, databases, and software engineering practices.
-- Gained practical exposure to enterprise software development environments.
+- Technical training in Java, SQL, JavaScript and React.
+- Worked on enterprise coding assignments.
+- Learned software engineering best practices.
+- Strengthened Object-Oriented Programming concepts.
 
 ---
 
-# 🚀 Currently Learning
-
-- FastAPI
-- Django
-- Flask
-- REST APIs
-- Authentication & Authorization
-- System Design
-- Machine Learning
-- Generative AI
-- Large Language Models (LLMs)
-- Advanced Data Structures & Algorithms
-
----
-
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql"/>
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask,python" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
 </p>
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🎮 Tic Tac Toe AI
+## 🎮 Tic Tac Toe
 
-A browser-based Tic Tac Toe game with a Python Flask backend and JavaScript frontend.
+Python Flask + JavaScript web application.
 
-**Highlights**
+✔ REST API Backend
 
-- REST API-based architecture
-- Backend game logic
-- Interactive frontend
-- Clean UI
-- Deployed application
+✔ Interactive Frontend
+
+✔ Responsive Design
+
+✔ Score Tracking
+
+✔ Deployed on Render
 
 ---
 
 ## 💰 Salary Prediction Web App
 
-Machine Learning web application that predicts salary using trained ML models.
+Machine Learning project built using Flask and Scikit-Learn.
 
-**Tech**
-
-- Python
-- Flask
-- Scikit-Learn
-- HTML
-- CSS
-- JavaScript
+- Regression Model
+- Interactive UI
+- Data Preprocessing
+- Model Deployment
 
 ---
 
 ## 🔜 Upcoming Projects
 
-- FastAPI Authentication System
-- URL Shortener API
+- FastAPI Authentication API
+- URL Shortener
 - Expense Tracker API
 - AI Chat Application
 - RAG-based LLM Project
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img width="49%" src="https://streak-stats.demolab.com?user=animeshjha06&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -153,61 +150,104 @@ Machine Learning web application that predicts salary using trained ML models.
 # 📈 Contribution Graph
 
 <p align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshjha06&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=animeshjha06&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=animeshjha06&theme=tokyonight&row=1&no-frame=true"/>
+
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Current Mission
 
-- Building scalable backend applications
-- Writing clean and maintainable code
-- Solving Data Structures & Algorithms problems
-- Learning software architecture and system design
-- Exploring AI-powered applications
-- Contributing to open-source projects
+```text
+🛸 Mission Status : ACTIVE
 
----
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-# 📚 What You'll Find Here
+✔ Building Backend Applications
+✔ Learning System Design
+✔ Solving DSA Problems
+✔ Exploring Machine Learning
+✔ Building AI Applications
+✔ Open Source Contributions
 
-- Backend Development Projects
-- REST APIs
-- Python Applications
-- Java Projects
-- Machine Learning Projects
-- Data Structures & Algorithms
-- Full-Stack Applications
-- Open Source Contributions
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Transmission Ends...
+```
 
 ---
 
-# 🤝 Let's Connect
+# 📚 Repository Contents
 
-<p align="left">
+- 🐍 Python Projects
+- ☕ Java Projects
+- 🌐 REST APIs
+- 🤖 Machine Learning
+- 💻 Backend Development
+- 📦 Full Stack Projects
+- 📖 DSA Solutions
+
+---
+
+# 🌌 Fun Terminal
+
+```bash
+> whoami
+
+Animesh Jha
+
+> role
+
+Backend Software Engineer
+
+> location
+
+AREA 51 🛸
+
+> currently_learning
+
+FastAPI
+Django
+Machine Learning
+LLMs
+System Design
+
+> coffee
+
+Unlimited ☕
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/animeshjha06">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/animesh-jha-33aa51227/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:animeshjha95166@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://animeshjha06.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -216,10 +256,14 @@ Machine Learning web application that predicts salary using trained ML models.
 
 # 💬 Favorite Quote
 
-> **"Code you can't explain is debt, not skill."**
+> *"Code you can't explain is debt, not skill."*
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider starring my repositories!
-</p>
+<h3 align="center">
+
+⭐ Thanks for visiting my profile!
+
+**Enjoy your stay at AREA 51 👽**
+
+</h3>
