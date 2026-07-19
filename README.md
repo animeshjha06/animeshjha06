@@ -46,18 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=animeshjha06&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Connect
 
 <p align="center">
