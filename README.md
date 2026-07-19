@@ -1,83 +1,75 @@
 <div align="center">
 
-# 👽 WELCOME TO AREA 51
+# 👋 Hi, I'm Animesh Jha
 
-```text
-██████████████████████████████████████████ 100%
+### Backend Software Engineer • Python • Java • FastAPI
 
-Scanning Visitor...
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=900&lines=Backend+Software+Engineer;Python+%7C+Java+Developer;FastAPI+%7C+Django+%7C+Flask;Machine+Learning+Explorer;Learning+LLMs+%26+System+Design;Always+Building+Something+New;Open+Source+Enthusiast" />
 
-✔ Human Detected
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,20,24&text=Welcome%20to%20My%20GitHub&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-Loading Developer Profile...
+<p>
 
-> Name      : Animesh Jha
-> Role      : Backend Software Engineer
-> Status    : Online
+<img src="https://komarev.com/ghpvc/?username=animeshjha06&style=for-the-badge&color=blue"/>
 
-Access Granted...
-```
+<img src="https://img.shields.io/github/followers/animeshjha06?style=for-the-badge&logo=github"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=900&color=39FF14&center=true&vCenter=true&width=900&lines=Hello+Human+👋;I'm+Animesh+Jha;Backend+Software+Engineer;Python+%7C+Java+%7C+FastAPI;Machine+Learning+Explorer;Always+Building+Something+New;Welcome+to+AREA+51+👽" />
+<img src="https://img.shields.io/github/stars/animeshjha06?style=for-the-badge"/>
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=animeshjha06&style=for-the-badge&color=39FF14&label=VISITORS"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-```bash
-who am i
-```
+```python
+class Developer:
 
-```text
-Name        : Animesh Jha
+    name = "Animesh Jha"
 
-Occupation  : Software Engineer
+    role = "Backend Software Engineer"
 
-Experience  : ADP
+    company = "Former ADP"
 
-Focus        : Backend Development
+    languages = [
+        "Python",
+        "Java",
+        "C++",
+        "JavaScript"
+    ]
 
-Mission      : Build scalable applications
+    backend = [
+        "FastAPI",
+        "Django",
+        "Flask"
+    ]
 
-Currently Learning
-    • FastAPI
-    • Django
-    • Machine Learning
-    • LLMs
-    • System Design
+    databases = [
+        "PostgreSQL",
+        "MySQL"
+    ]
+
+    learning = [
+        "Machine Learning",
+        "LLMs",
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "System Design"
+    ]
+
+    motto = "Keep Building 🚀"
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚙️ Tech Stack
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,mysql"/>
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask"/>
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,fastapi,django,flask,react,mysql,postgres,docker,git,github,linux,vscode,postman&perline=9"/>
 
 </div>
 
@@ -85,140 +77,149 @@ Currently Learning
 
 # 🚀 Featured Projects
 
-## 🎮 Tic Tac Toe
-
-```text
-Status : COMPLETE
-
-✔ Flask Backend
-
-✔ JavaScript Frontend
-
-✔ REST API
-
-✔ Responsive UI
-
-✔ Render Deployment
-```
-
----
-
-## 💰 Salary Prediction
-
-```text
-Status : COMPLETE
-
-✔ Machine Learning
-
-✔ Flask
-
-✔ Scikit-Learn
-
-✔ Interactive UI
-```
-
----
-
-## 🛰 Current Mission
-
-```text
-Mission Control
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-□ Backend Engineering
-
-■ Python
-
-■ Java
-
-■ FastAPI
-
-■ Django
-
-■ REST APIs
-
-■ Machine Learning
-
-□ Generative AI
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🎮 Tic Tac Toe | Multiplayer Flask game with REST APIs | Flask • JS |
+| 💰 Salary Predictor | Machine Learning Web App | Flask • Scikit-Learn |
+| 🚀 More Projects Coming | Backend & AI Projects | Python |
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=animeshjha06&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img width="49%" src="https://streak-stats.demolab.com?user=animeshjha06&theme=tokyonight&hide_border=true"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=animeshjha06&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=animeshjha06&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🏆 Achievements
+# 🐍 Contribution Snake
+
+> Automatically updated every day
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=animeshjha06&theme=tokyonight&no-frame=true&row=1"/>
+<img src="https://raw.githubusercontent.com/animeshjha06/animeshjha06/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
 ---
 
-# 🌌 Terminal
+# 📊 GitHub Summary Cards
 
-```bash
-$ whoami
+<div align="center">
 
-Animesh Jha
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=animeshjha06&theme=tokyonight"/>
 
-$ skills
+<br>
 
-Python
-Java
-FastAPI
-Django
-SQL
-Machine Learning
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=animeshjha06&theme=tokyonight"/>
 
-$ current_status
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=animeshjha06&theme=tokyonight"/>
 
-Building cool backend applications ☕
+<br>
 
-$ favorite_command
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=animeshjha06&theme=tokyonight"/>
 
-git push origin main
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=animeshjha06&theme=tokyonight&utcOffset=5.5"/>
 
-$ easter_egg
+</div>
 
-Area 51 has better Wi-Fi than Earth 👽
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=animeshjha06&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+
+```text
+Python       10 hrs
+Java          6 hrs
+FastAPI       4 hrs
+SQL           3 hrs
+Other         2 hrs
 ```
 
+<!--END_SECTION:waka-->
+
 ---
 
-# 🤝 Connect
+# 🧠 LeetCode
 
-<p align="center">
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/animeshjha06?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+
+</div>
+
+---
+
+# 📅 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
+# ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎵 Currently Listening To (Spotify)
+
+<div align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
+# 🌎 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/animeshjha06">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -233,19 +234,19 @@ Area 51 has better Wi-Fi than Earth 👽
 </a>
 
 <a href="https://animeshjha06.github.io/portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 👽 Transmission Complete
+### ⭐ Thanks for Visiting!
 
-*"Code you can't explain is debt, not skill."*
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
 
-⭐ Thanks for visiting AREA 51
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24"/>
 
 </div>
