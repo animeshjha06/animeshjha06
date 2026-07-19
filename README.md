@@ -175,43 +175,18 @@ Other         2 hrs
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/animeshjha06?theme=dark&font=JetBrains%20Mono&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/animesh_0611?theme=dark&font=JetBrains%20Mono&ext=contest"/>
 
 </div>
 
 ---
 
-# 📅 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
----
-
-# ✍️ Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
-
----
 
 # 💬 Random Dev Quote
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎵 Currently Listening To (Spotify)
-
-<div align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem"/>
 
 </div>
 
