@@ -19,7 +19,7 @@
 - 🐍 Backend Developer with Python & Java
 - 🚀 Building APIs using FastAPI, Django & Flask
 - 🤖 Learning Machine Learning & LLMs
-- 💼 Former Associate Functional Consultant @ ADP
+- 💼 Former Member Technical @ ADP
 
 ---
 
