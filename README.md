@@ -26,7 +26,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,aws,flask,fastapi,mysql,docker,git,github,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,aws,flask,mysql,git,github,linux,vscode"/>
 </p>
 
 ---
