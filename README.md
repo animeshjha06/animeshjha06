@@ -36,5 +36,5 @@
 <p align="center">
 <a href="https://github.com/animeshjha06">GitHub</a> •
 <a href="https://www.linkedin.com/in/animesh-jha-33aa51227/">LinkedIn</a> •
-<a href="https://animesh06.vercel.app/">Portfolio</a>
+<a href="https://www.animeshjha.in/">Portfolio</a>
 </p>
